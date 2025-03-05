@@ -1,0 +1,319 @@
+1. School Principal
+    🚀 View school-wide reports (student performance, staff efficiency, financial reports).
+    🚀 Approve/reject important decisions (budgets, policy changes, disciplinary actions).
+    🚀 Manage the school calendar and events.
+    🚀 Send announcements to staff, students, and parents.
+2. Vice Principal/Assistant Principal
+    🚀 Manage student discipline records (suspensions, warnings, behavior reports).
+    🚀 Oversee teacher evaluations and classroom observations.
+    🚀 Assist with scheduling classes and exams.
+    🚀 Approve leave requests from teachers and staff.
+3. School Administrator
+    🚀 Manage user accounts (teachers, students, parents).
+    🚀 Maintain student and staff records (admission, personal details, ID generation).
+    🚀 Oversee enrollment and admissions processing.
+    🚀 Generate and distribute official school documents (report cards, certificates, letters).
+4. Registrar
+    🚀 Process student enrollment and registration.
+    🚀 Maintain academic records and update student profiles.
+    🚀 Issue transcripts, report cards, and student certificates.
+5. Admissions Officer
+    🚀 Handle new student applications and document verification.
+    🚀 Track and update the admission status of applicants.
+    🚀 Respond to inquiries from parents and prospective students.
+6. Guidance Counselor
+    🚀 Manage student counseling sessions and appointment scheduling.
+    🚀 Track student behavior reports and mental health concerns.
+    🚀 Communicate with parents regarding student issues.
+7. Student Affairs Coordinator
+    🚀 Oversee extracurricular activities and student organizations.
+    🚀 Manage student disciplinary actions and appeals.
+    🚀 Track student participation in school events and programs.
+8. Teachers (Subject Teachers/Class Advisors)
+    🚀 Manage class schedules and lesson plans.
+    🚀 Input and update student grades.
+    🚀 Take attendance and monitor student participation.
+    🚀 Send student progress reports to parents.
+9. Department Heads
+    🚀 Oversee subject-specific curriculum planning.
+    🚀 Approve and manage teacher schedules.
+    🚀 Evaluate teacher performance and provide feedback.
+10. Librarian
+    🚀 Manage book lending, returns, and inventory.
+    🚀 Track overdue books and impose fines if necessary.
+    🚀 Maintain a digital catalog of school resources.
+
+
+
+
+
+Vice Principal Functionalities:
+1️⃣ **Manage Student Discipline Records**  
+   - Record student offenses (e.g., tardiness, misconduct, academic dishonesty)  
+   - Issue warnings, suspensions, or detentions  
+   - Notify parents about disciplinary actions via email/SMS  
+   - Generate reports on student behavior trends  
+
+2️⃣ **Oversee Teacher Evaluations**  
+   - Schedule classroom observations for teachers  
+   - Record performance feedback and improvement areas  
+   - Approve or reject teacher evaluation reports  
+   - Generate teacher performance analytics  
+
+3️⃣ **Assist with Class and Exam Scheduling**  
+   - Assign teachers to classes based on availability  
+   - Create and modify timetables for students and staff  
+   - Schedule exam dates and assign invigilators  
+   - Prevent scheduling conflicts with automated checks  
+
+4️⃣ **Approve Leave Requests from Teachers and Staff**  
+   - Review and approve/reject leave requests  
+   - Monitor leave balances and ensure adequate staffing  
+   - Notify affected departments when a leave is granted  
+   - Generate reports on staff leave trends  
+
+
+Principal Functionalities  
+1️⃣ **View School-Wide Reports**  
+   - Access student academic performance reports  
+   - View attendance statistics for students and teachers  
+   - Monitor school financial reports (budget, expenses, revenue)  
+   - Generate summary reports for board meetings  
+
+2️⃣ **Approve/Reject Important Decisions**  
+   - Review budget proposals and approve school expenditures  
+   - Approve curriculum changes and policy updates  
+   - Make final decisions on disciplinary actions for severe cases  
+   - Approve major school events and partnerships  
+
+3️⃣ **Manage School Calendar and Events**  
+   - Schedule and oversee school-wide events (seminars, graduations, exams)  
+   - Modify academic calendars and notify all users  
+   - Approve department-specific events and activities  
+   - Automate event reminders for students, teachers, and staff  
+
+4️⃣ **Send Announcements to Staff, Students, and Parents**  
+   - Broadcast important school updates and emergency alerts  
+   - Send reminders for deadlines, holidays, and policy changes  
+   - Notify parents about school performance and achievements  
+   - Manage announcement history and allow scheduled posts  
+
+School Administrator Functionalities  
+1️⃣ **Manage User Accounts**  
+   - Create and assign roles for students, teachers, and staff  
+   - Update user details (contact info, role changes, profile updates)  
+   - Reset passwords and handle account security issues  
+   - Deactivate accounts for graduated students or resigned staff  
+
+2️⃣ **Maintain Student and Staff Records**  
+   - Store and manage personal details (name, address, contact info)  
+   - Update records for student promotions, transfers, and graduations  
+   - Track employment records for teachers and staff  
+   - Ensure data security and access control for sensitive information  
+
+3️⃣ **Oversee Enrollment and Admissions Processing**  
+   - Monitor admission applications and verify submitted documents  
+   - Approve/reject enrollment requests based on school policies  
+   - Generate student IDs and assign unique registration numbers  
+   - Send enrollment confirmation notifications to students and parents  
+
+4️⃣ **Generate and Distribute Official School Documents**  
+   - Issue report cards, certificates, and recommendation letters  
+   - Provide employment verification letters for staff  
+   - Generate school fee receipts and invoices  
+   - Track document requests and automate processing times  
+
+
+Registrar Functionalities  
+1️⃣ **Process Student Enrollment and Registration**  
+   - Handle new student applications and validate required documents  
+   - Assign student numbers and class sections upon registration  
+   - Monitor available slots for each grade level and program  
+   - Generate registration status reports for the admin and principal  
+
+2️⃣ **Maintain Academic Records**  
+   - Store and update student grades, attendance, and disciplinary records  
+   - Track student progress across different academic years  
+   - Ensure accurate record-keeping for transcripts and graduation eligibility  
+   - Provide historical academic data when needed  
+
+3️⃣ **Issue Transcripts, Report Cards, and Student Certificates**  
+   - Generate and distribute student report cards each term  
+   - Process transcript requests for graduates and transfers  
+   - Issue certificates for academic achievements and extracurricular awards  
+   - Automate document requests and reduce manual workload  
+
+Admissions Officer Functionalities  
+1️⃣ **Handle New Student Applications**  
+   - Receive and review admission applications  
+   - Validate submitted documents (birth certificates, previous school records)  
+   - Assign application status (pending, approved, rejected)  
+   - Communicate application updates to parents and students  
+
+2️⃣ **Track and Update Admission Status**  
+   - Monitor the number of available slots per grade level/program  
+   - Assign students to sections after approval  
+   - Maintain a waitlist for qualified applicants when slots are full  
+   - Generate admission status reports for school administrators  
+
+3️⃣ **Respond to Inquiries from Parents and Prospective Students**  
+   - Provide details on admission requirements and deadlines  
+   - Schedule and manage entrance exams/interviews  
+   - Send automated email/SMS notifications for admission updates  
+   - Offer support for scholarship and financial aid applications  
+
+
+Guidance Counselor Functionalities  
+1️⃣ **Manage Student Counseling Sessions**  
+   - Schedule and track one-on-one or group counseling sessions  
+   - Maintain confidential records of student concerns and progress  
+   - Assign intervention plans for students with academic or behavioral issues  
+   - Provide referrals to specialists if needed  
+
+2️⃣ **Track Student Behavior and Mental Health Concerns**  
+   - Record student discipline reports and interventions  
+   - Monitor student emotional well-being and provide necessary support  
+   - Identify students at risk of dropping out and implement prevention measures  
+   - Work closely with teachers and parents on student development  
+
+3️⃣ **Communicate with Parents Regarding Student Issues**  
+   - Notify parents about student behavioral concerns and recommendations  
+   - Provide updates on student emotional or psychological support  
+   - Organize parent meetings for counseling-related discussions  
+   - Maintain records of parental involvement and feedback  
+
+Student Affairs Coordinator Functionalities  
+1️⃣ **Oversee Extracurricular Activities and Student Organizations**  
+   - Approve and manage student clubs and organizations  
+   - Schedule and oversee school events, competitions, and trips  
+   - Track student participation in extracurricular activities  
+   - Allocate school resources for student activities  
+
+2️⃣ **Manage Student Disciplinary Actions**  
+   - Record and track disciplinary cases involving students  
+   - Approve student appeals for disciplinary decisions  
+   - Coordinate with guidance counselors for behavioral interventions  
+   - Generate reports on student behavior trends and incidents  
+
+3️⃣ **Track Student Participation in School Events**  
+   - Maintain attendance records for school events and programs  
+   - Assign leadership roles and responsibilities to students in activities  
+   - Ensure that participation records reflect on student reports  
+   - Generate activity participation certificates  
+
+Teacher Functionalities  
+1️⃣ **Manage Class Schedules and Lesson Plans**  
+   - Create and update lesson plans for assigned subjects  
+   - Manage daily, weekly, or monthly class schedules  
+   - Assign homework, projects, and reading materials  
+   - Modify lesson schedules based on academic progress  
+
+2️⃣ **Input and Update Student Grades**  
+   - Record grades for quizzes, exams, and assignments  
+   - Generate progress reports for students and parents  
+   - Handle grade corrections and justification requests  
+   - Ensure grade calculations align with school policies  
+
+3️⃣ **Take Attendance and Monitor Student Participation**  
+   - Record daily student attendance per class  
+   - Track tardiness and absences with automatic notifications  
+   - Monitor student engagement and participation in activities  
+   - Generate attendance reports for parents and administrators  
+
+4️⃣ **Send Student Progress Reports to Parents**  
+   - Provide individual student performance updates  
+   - Send personalized feedback on academic strengths and weaknesses  
+   - Notify parents about upcoming tests, assignments, and deadlines  
+   - Maintain communication logs for parent interactions  
+
+Department Head Functionalities  
+1️⃣ **Oversee Subject-Specific Curriculum Planning**  
+   - Design and approve curriculum guidelines for subjects  
+   - Ensure alignment with government education standards  
+   - Review and update textbooks and learning materials  
+   - Coordinate with teachers for curriculum improvements  
+
+2️⃣ **Approve and Manage Teacher Schedules**  
+   - Assign class loads and teaching responsibilities  
+   - Balance teacher workload to prevent scheduling conflicts  
+   - Approve class rescheduling or adjustments when necessary  
+   - Ensure faculty compliance with academic deadlines  
+
+3️⃣ **Evaluate Teacher Performance and Provide Feedback**  
+   - Conduct classroom observations and performance reviews  
+   - Provide recommendations for teacher development and training  
+   - Address teacher concerns and escalate major issues to the principal  
+   - Track teacher progress and generate performance reports  
+
+Librarian Functionalities  
+1️⃣ **Manage Book Lending, Returns, and Inventory**  
+   - Issue books to students and staff and track due dates  
+   - Process book returns and apply fines for late submissions  
+   - Maintain a real-time library inventory system  
+   - Add new books and remove outdated materials  
+
+2️⃣ **Track Overdue Books and Impose Fines**  
+   - Send overdue reminders to students and staff  
+   - Implement a fine system for lost or damaged books  
+   - Restrict borrowing privileges for repeat offenders  
+   - Generate overdue book reports for school administration  
+
+3️⃣ **Maintain a Digital Catalog of School Resources**  
+   - Digitize and organize a searchable book database  
+   - Categorize books by subject, author, and availability status  
+   - Allow students to reserve books online  
+   - Provide access to e-books and digital research materials  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Goals for this month:
+🎯 Become professional on web and software development.
+🎯 Create multiple SaaS websites that generate income (each).
+🎯 Get out of being brokie already.
+🎯 Make my first $3,000.
+🎯 Learn this tech stack (computer programming):
+    - JavaScript (ReactJS, NodeJS, ExpressJS).
+    - Java and C++ (with SDL2, and OpenGL).
+    - PHP (Laravel).
+    - Databases (MySQL, PostgreSQL, MongoDB).
+    - HTML/CSS (TailwindCSS).
+    - Video Editing and Graphics design
+🎯 Learn to how to sell and make money online via multiple products.
+🎯 Learn how to speak English with deep vocabolary (smartass).
+🎯 Learned and applied all the lessons that Andrew Tate taught.
+🎯 Learn Mathematics.
+🎯 Learn copywriting (for business and marketing).
+🎯 Learned how to do Taekwondo and Boxing (Mixed Martial Arts).
+🎯 Trained very hard like a spartan and got fully jacked already.
+🎯 Learned tons of shit on how to make profit, make money online, and business.    
+
+Objectives for this Week:
+🎯 Finish the "School Management System Web Application" school project.
+🎯 Finish the research paper.
+🎯 Learn web design (full course).
+🎯 Learn video editing (full course).
+🎯 Create my first 50+ custom built web design templates (HTML/CSS/JavaScript).
+🎯 Create first 15 video contents on web development with professional video editing.
+
+
+
+
+Objective (Day I):
+🚀 Training (--done).
+🚀 Finishing the School Management System.
+🚀 Create and learn web designs.
